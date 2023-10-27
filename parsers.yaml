@@ -8,7 +8,7 @@ parsers:
         const rules = await axios.get(address).then(function (response) {
           return yaml.parse(response.data).rules;
         });
-        obj.rules = rules;
+        obj.rules = obj.rules.concat(rules);
 
         // Popup notifications
         const title = "更新成功";
