@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Office
+~$*
+
+# JetBrains
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Vim
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
