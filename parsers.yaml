@@ -1,5 +1,5 @@
 parsers:
-  - url: https://sub.paasmi.com/subscribe/179183/HROgadPQ3LOa
+  - url: #your subscription url
     code: |
       module.exports.parse = async (raw, { axios, yaml, notify, console }, { name, url, interval, selected }) => {
         const obj = yaml.parse(raw);
