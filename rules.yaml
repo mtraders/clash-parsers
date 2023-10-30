@@ -111,6 +111,7 @@ rules:
 - DOMAIN-SUFFIX,zlne800.com,REJECT
 - DOMAIN-SUFFIX,zunmi.cn,REJECT
 - DOMAIN-SUFFIX,zzd6.com,REJECT
+- DOMAIN-SUFFIX,ghostery.com,REJECT
 - IP-CIDR,39.107.15.115/32,REJECT,no-resolve
 - IP-CIDR,47.89.59.182/32,REJECT,no-resolve
 - IP-CIDR,103.49.209.27/32,REJECT,no-resolve
@@ -300,4 +301,3 @@ rules:
 # MTRADERS
 - DOMAIN,bulianglin.com,🚀 节点选择
 - DOMAIN,google.com,🚀 节点选择
-- DOMAIN,live.com,🚀 节点选择
