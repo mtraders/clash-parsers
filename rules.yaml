@@ -299,6 +299,6 @@ rules:
 - MATCH,DIRECT
 
 # MTRADERS
-- DOMAIN,bulianglin.com,🚀 节点选择
-- DOMAIN,google.com,🚀 节点选择
-- DOMAIN-KEYWORD,yinfans,🚀 节点选择
+- DOMAIN-SUFFIX,bulianglin.com,🚀 节点选择
+- DOMAIN-SUFFIX,google.com,🚀 节点选择
+- DOMAIN-SUFFIX,yinfans.me,🚀 节点选择
