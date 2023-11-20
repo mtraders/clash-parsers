@@ -2,7 +2,6 @@
 rules:
 
 # MTRADERS
-- DOMAIN-SUFFIX,bulianglin.com,🚀 节点选择
-- DOMAIN-SUFFIX,google.com,🚀 节点选择
-- DOMAIN-SUFFIX,yinfans.me,🚀 节点选择
-- DOMAIN-KEYWORD,claude.ai,🚀 手动切换
+- DOMAIN-SUFFIX,bulianglin.com,♻️ 手动切换
+- DOMAIN-SUFFIX,yinfans.me,♻️ 手动切换
+- DOMAIN-KEYWORD,claude.ai,♻️ 手动切换
